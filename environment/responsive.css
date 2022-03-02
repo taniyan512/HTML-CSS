@@ -1,0 +1,16 @@
+@media (max-width: 1080px ) {
+  
+  * {
+    box-sizing: border-box;
+  }
+  .header-continer {
+    justify-content:space-between;
+  }
+   .header-menu {
+     display:none;
+   }
+   .menu-icon {
+     display:block;
+     
+     }
+}
